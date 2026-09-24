@@ -35,7 +35,7 @@ Java-Lab-Experiments/
 └── Experiment-08/
 ```
 
-Each experiment folder contains the corresponding Java source code and supporting documentation wherever applicable.
+Each experiment folder contains the corresponding Java source code.
 
 ## 🛠️ Technologies Used
 

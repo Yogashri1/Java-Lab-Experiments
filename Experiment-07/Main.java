@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import employee.Employee;
+import employee.Employee;  
 
 public class Main {
     public static void main(String[] args) {
